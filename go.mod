@@ -1,4 +1,4 @@
-module github.com/yourusername/moneyenlight-tools
+module github.com/helloamitkr/moneyenlight-tools
 
 go 1.24.4
 
